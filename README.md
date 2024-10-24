@@ -1,1 +1,2 @@
 # ollamaLLMtesting
+The Ollama LLM is a tool that simplifies running open source LLM's locally. It provides an easy way to download, run. and experiment with various models from HuggingFace and other sources without having to worry about API Keys or purchasing tokens. My attatched pdf presentation does some simple tests comparing 3 differently sized models: TinyLlama:1.1B, Llama3:8b, and Solar:70B.
